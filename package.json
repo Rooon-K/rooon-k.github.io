@@ -1,0 +1,14 @@
+{
+  "name": "rooon-k",
+  "version": "1.0.0",
+  "author": "rooon-k",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\" --temp .temp",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.9.7",
+    "vuepress-theme-reco": "1.6.17"
+  },
+  "description": ""
+}
