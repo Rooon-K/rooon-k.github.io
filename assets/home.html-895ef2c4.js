@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-19a9a067","path":"/docs/nestjs/home.html","title":"nestjs简介","lang":"en-US","frontmatter":{"title":"nestjs简介","date":"2023/05/11"},"headers":[{"level":2,"title":"安装","slug":"安装","link":"#安装","children":[]}],"git":{},"filePathRelative":"docs/nestjs/home.md"}');export{e as data};
