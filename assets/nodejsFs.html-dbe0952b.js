@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5b2c4572","path":"/blogs/2022/nodejsFs.html","title":"nodejs fs","lang":"en-US","frontmatter":{"title":"nodejs fs","tags":["nodejs"],"categories":["学习笔记"],"date":"2022/11/18"},"headers":[],"git":{},"filePathRelative":"blogs/2022/nodejsFs.md"}');export{e as data};

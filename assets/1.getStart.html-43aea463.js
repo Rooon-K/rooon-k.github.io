@@ -1,0 +1,8 @@
+import{_ as e,o as t,c as d,a}from"./app-b1fe8d4e.js";const r={},s=a(`<h2 id="创建一个项目" tabindex="-1"><a class="header-anchor" href="#创建一个项目" aria-hidden="true">#</a> 创建一个项目</h2><p>使用 Nest CLI 创建项目后, <code>src/</code>目录下会填充几个核心文件。</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>src
+  app.controller.ts
+  app.controller.spec.ts
+  app.module.ts
+  app.service.ts
+  main.ts
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><table><thead><tr><th>文件名</th><th>描述</th></tr></thead><tbody><tr><td>app.controller.ts</td><td>具有单一路由的基本控制器。</td></tr><tr><td>app.controller.spec.ts</td><td>控制器的单元测试。</td></tr><tr><td>app.module.ts</td><td>应用程序的根模块。( root module )</td></tr><tr><td>app.service.ts</td><td>具有单一方法的基本服务。( service )</td></tr><tr><td>main.ts</td><td>应用程序的入口文件，它使用核心函数 <code>NestFactory</code> 来创建 Nest 应用程序的实例。</td></tr></tbody></table><h2 id="运行项目" tabindex="-1"><a class="header-anchor" href="#运行项目" aria-hidden="true">#</a> 运行项目</h2><p>安装完成后可以通过以下命令运行项目。</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>npm run start
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>此命令将使用 HTTP 服务启动应用程序, 以侦听 <code>src/main.ts</code> 中所定义的端口。应用运行后打开浏览器并访问 <code>http://localhost:3000</code>, 您将看到 <code>Hello World!</code>。</p>`,8),n=[s];function c(i,l){return t(),d("div",null,n)}const p=e(r,[["render",c],["__file","1.getStart.html.vue"]]);export{p as default};

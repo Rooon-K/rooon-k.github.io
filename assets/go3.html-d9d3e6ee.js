@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-68faaa67","path":"/blogs/2023/go3.html","title":"Golang学习与实践(三)","lang":"en-US","frontmatter":{"title":"Golang学习与实践(三)","tags":["go"],"categories":["Golang"],"date":"2023/10/19"},"headers":[{"level":2,"title":"循环结构","slug":"循环结构","link":"#循环结构","children":[]}],"git":{},"filePathRelative":"blogs/2023/go3.md"}');export{t as data};
